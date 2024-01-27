@@ -4,6 +4,6 @@ Hello, I'm SOUID Oumaima, a software engineer with expertise in python, HTML5, C
 A good knowledge of French and English.
 
 instagram :https://www.instagram.com/oumaima.souid/
-linkedin :https://www.linkedin.com/in/oumaima-souid-8949371a2/
+linkedin :[https://www.linkedin.com/in/oumaima-souid-8949371a2/](https://www.linkedin.com/in/omayma-sd-a195771b3/)
 upwork : https://www.upwork.com/freelancers/~015cc9b5e552090f6a
 Al mostaql : https://mostaql.com/u/Oumaima_Souid
